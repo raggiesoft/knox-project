@@ -1,0 +1,11 @@
+# Project Licensing
+
+This project uses a hybrid-license model based on the component:
+
+- **WordPress Derivative Works (Themes, Plugins):** Any code that is a derivative work of WordPress is licensed under the GNU General Public License v3.0 (GPLv3), in accordance with WordPress's own licensing.
+
+- **All Other Original Source Code (HTML, CSS, JS, etc.):ax** Any original code that is *not* a derivative work of WordPress is licensed under the MIT License.
+
+- **Creative Content (Text, Art, Audio):** Licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+
+By using, contributing to, or distributing any part of this project, you agree to the terms of the applicable license.
