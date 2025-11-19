@@ -18,7 +18,7 @@
           'href' => '#core-conflict',
           'text' => 'Explore the Universe',
           'variant' => 'pact', // Will map to btn-primary in button.php
-          'icon' => 'fa-solid fa-arrow-down-to-line',
+          'icon' => 'fa-duotone fa-arrow-down-to-line',
           'iconPosition' => 'before',
           'size' => 'large'
         ];
@@ -49,7 +49,7 @@
               'href' => '/concepts/pact/',
               'text' => 'Read The Pact',
               'variant' => 'pact', // -> maps to btn-primary
-              'icon' => 'fa-solid fa-leaf',
+              'icon' => 'fa-duotone fa-leaf',
               'fullWidth' => true
             ]
           ];
@@ -69,7 +69,7 @@
               'href' => '/concepts/port/',
               'text' => 'Enter The Port',
               'variant' => 'axiom', // -> maps to btn-warning
-              'icon' => 'fa-solid fa-industry',
+              'icon' => 'fa-duotone fa-industry',
               'fullWidth' => true
             ]
           ];
@@ -89,7 +89,7 @@
               'href' => 'https://lore.raggiesoftknox.com/',
               'text' => 'Open The Lore Bible',
               'variant' => 'neutral', // -> maps to btn-secondary
-              'icon' => 'fa-solid fa-book-journal-whills',
+              'icon' => 'fa-duotone fa-book-journal-whills',
               'fullWidth' => true
             ]
           ];

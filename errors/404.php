@@ -13,7 +13,7 @@
           'href' => '/',
           'text' => 'Return Home',
           'variant' => 'pact',
-          'icon' => 'fa-solid fa-home',
+          'icon' => 'fa-duotone fa-home',
           'iconPosition' => 'before',
           'size' => 'large'
         ];
